@@ -30,11 +30,6 @@ El proyecto está estructurado de la siguiente manera:
 - [Font Awesome](https://fontawesome.com/)
 - [Google Fonts](https://fonts.google.com/)
 
-## Capturas de Pantalla
-
-Aquí hay algunas capturas de pantalla de mi portafolio:
-
-[Portafolio]([img/]([https://github.com/Mershar0/portfolio/blob/main/img/portfolio_img.png](https://github.com/Mershar0/portfolio/blob/main/img/portfolio_img.png)))  
 
 ## Instalación
 
