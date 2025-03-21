@@ -47,14 +47,14 @@ body {
 }
 
 .nav-list li a:hover {
-  color: #f8b400;
+  color: #ffb3d7;
 }
 
 /* Estilos para la sección de bienvenida */
 .welcome-section {
   text-align: center;
   padding: 100px 20px 50px; /* Ajusta el padding para compensar el navbar fijo */
-  background-color: #f8b400;
+  background-color: #ffb3d7;
   color: #fff;
 }
 
@@ -131,7 +131,7 @@ body {
   display: inline-block;
   text-decoration: none;
   color: #fff;
-  background-color: #f8b400;
+  background-color: #ffb3d7;
   padding: 10px 20px;
   margin: 0 10px;
   border-radius: 5px;
