@@ -176,4 +176,16 @@ footer p {
   grid-template-columns: repeat(1, 1fr); /* 1 columna en pantallas pequeñas */
 }
 
+.contact-links{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+
+.contact-links a{
+  flex: 1 1 calc(50% - 10px); /* Cada botón ocupa el 50% del ancho con margen */
+  text-align: center;
+}
+
 }
